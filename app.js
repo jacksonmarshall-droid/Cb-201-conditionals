@@ -26,3 +26,9 @@ if (color==="green"){
 }else{
     console.log("red=stop")
 }
+let istired=true
+if(istired===true){
+    console.log("You are tired")
+}else{
+    console.log("You are not tired")
+}    
