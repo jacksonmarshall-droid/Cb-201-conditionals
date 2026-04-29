@@ -32,3 +32,11 @@ if(istired===true){
 }else{
     console.log("You are not tired")
 }    
+let grade=90
+if(grade >= 90){
+    console.log("You have a A")
+}else if ( grade >=80) {
+    console.log("You have a B")
+ } else{
+    console.log("You have a c")
+}    
